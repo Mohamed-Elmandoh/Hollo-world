@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         // test
         // new Test
         // test for terminal
-//  edit comment   
+         //  edit comment
+        // test terminal push
     }
 }
